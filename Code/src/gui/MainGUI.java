@@ -341,19 +341,19 @@ public class MainGUI extends Application {
 		// Help menu handlers
 		// TODO: replace GitLab Wiki URLs with JavaDoc when necessary
 		helpAbout.setOnAction(e -> {
-			openURL("https://gitlab.com/WM-CSCI435-F17/Android-Hybrid-App-Testing/wikis/home");
+			openURL("https://gitlab.com/Patricol/android-hybrid-app-testing-backup/wikis/home");
 		});
 		
 		helpGUI.setOnAction(e -> {
-			openURL("https://gitlab.com/WM-CSCI435-F17/Android-Hybrid-App-Testing/wikis/GUI-Overview-and-How-To");
+			openURL("https://gitlab.com/Patricol/android-hybrid-app-testing-backup/wikis/GUI-Overview-and-How-To");
 		});
 		
 		referenceGUI.setOnAction(e -> {
-			openURL("https://gitlab.com/WM-CSCI435-F17/Android-Hybrid-App-Testing/wikis/GUI-Reference");
+			openURL("https://gitlab.com/Patricol/android-hybrid-app-testing-backup/wikis/GUI-Reference");
 		});
 		
 		helpAPI.setOnAction(e -> {
-			openURL("https://gitlab.com/WM-CSCI435-F17/Android-Hybrid-App-Testing/wikis/API-Overview-and-How-To");
+			openURL("https://gitlab.com/Patricol/android-hybrid-app-testing-backup/wikis/API-Overview-and-How-To");
 		});
 		
 		// Listener based on status of Selendroid driver for the purpose of enabling/disabling elements
