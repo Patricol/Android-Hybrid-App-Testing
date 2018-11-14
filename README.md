@@ -9,6 +9,12 @@
 ## Installation
 * Follow [this](https://gitlab.com/Patricol/android-hybrid-app-testing-backup/wikis/Installation) guide.
 
+## Demonstration
+* [Demonstration Video](https://youtu.be/ncIHnko4y9s)
+  * Also available [here](https://github.com/Patricol/Android-Hybrid-App-Testing/blob/master/screencaptures/demo.mp4?raw=true).
+
+![gui_screenshot](https://raw.githubusercontent.com/Patricol/Android-Hybrid-App-Testing/master/screencaptures/gui.png)
+
 ## Documentation
 * Detailed [wiki](https://gitlab.com/Patricol/android-hybrid-app-testing-backup/wikis/home).
 * Repository contains JavaDOC for every API class and method.
